@@ -6,11 +6,11 @@ comandos para navegar en Terminal
 
 Comandos  para iniciar el uso de Git
 
-- git config --global user.email "email de usuario"= para configurar el email de usuario
-- git config --global user.name "Nombre de usuario"=  Parta configurar nombre de usuario
+- git config --global user.email "EMAIL_USUARIO"= para configurar el email de usuario
+- git config --global user.name "NOMBRE_USUARIO"=  Parta configurar nombre de usuario
 - git init =  Para inicializar un proyecto nuevo
 - git status = Para ver el estado de nuestro archivo
-- git add nombre del archivo = para agregar un archivo al Staging Area
+- git add NOMBRE_ARCHIVO = para agregar un archivo al Staging Area
 	NOTA: Para agregar varios archivos a la  vez se  puede simplificar usando  
 		- git add . 
 - git commit = para crear un punto de control del código
@@ -19,13 +19,17 @@ Comandos  para iniciar el uso de Git
 		-para salir presionar Esc posterior mente teclear :wq y enter para regresar 
 		-Mostrara el  commit escrito, el numero de archivos modificados y el ID que se le asigna al archivo
 	NOTA para evitar entrar el editor se puede abreviar el procedimiento utilizando 
-		- git commit -m "Mensaje del commit"
+		- git commit -m "MENSAJE_COMMIT"
+		Para simplificar los pasos de agregar y comentar los cambios de un archivo que ya esta bajo el  control de vercion se puede usar
+		- git commit -a -m "MENSAJE_COMMIT"
 - git log =  Para ver todos los comentarios que hemos creado
 		-Entrega el ID del  commit,  el autor, fecha y el  commit escrito 
-- git checkout -- Nombre del archivo = Para revertir los cambios de los archivos 
-- git diff nombre de archivo = Para ver las diferencias hechas en el archivo
+- git checkout -- NOMBRE_ARCHIVO = Para revertir los cambios de los archivos 
+- git diff NOMBRE_ARCHIVO = Para ver las diferencias hechas en el archivo
 - git branch = para crear una nueva rama del proyecto
-- git checkout Nombre de la rama = Para moverse entre ramas del proyecto
+- git checkout NOMBRE_RAMA = Para moverse entre ramas del proyecto
+- git remote add NOMBRE URL = para añadir un repositorio remoto (GitHub)
+- git clone URL = clona el codigo del repositorio remoto (GitHub)
 
 SI SE NECESITA IGNORAR ALGUN ARCHIVO/CARPETA ES NECESARIO CREAR UN ARCHVO LLAMADO .gitignore DENTRO DE LA  
 	CARPETADEL PROYECTO, DENTRO DEL ARCHIVO SE ESCRIVE EL NOMBRE DE LOS ARCHIVOS A IGNORAR PERO ES NECESARIO
