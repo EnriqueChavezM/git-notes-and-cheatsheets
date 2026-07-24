@@ -1,0 +1,33 @@
+comandos para navegar en Terminal
+
+- pwd = Saber ubicación en la que nos encontramos
+- cd = Entrar  en las carpetas
+- ls = revisar que se encuentra dentro de la carpeta
+
+Comandos  para iniciar el uso de Git
+
+- git config --global user.email "email de usuario"= para configurar el email de usuario
+- git config --global user.name "Nombre de usuario"=  Parta configurar nombre de usuario
+- git init =  Para inicializar un proyecto nuevo
+- git status = Para ver el estado de nuestro archivo
+- git add nombre del archivo = para agregar un archivo al Staging Area
+	NOTA: Para agregar varios archivos a la  vez se  puede simplificar usando  
+		- git add . 
+- git commit = para crear un punto de control del código
+		-La consola cambia para empezar a escribir si no lo permite es presionar tecla i
+		-Escribir el Commit
+		-para salir presionar Esc posterior mente teclear :wq y enter para regresar 
+		-Mostrara el  commit escrito, el numero de archivos modificados y el ID que se le asigna al archivo
+	NOTA para evitar entrar el editor se puede abreviar el procedimiento utilizando 
+		- git commit -m "Mensaje del commit"
+- git log =  Para ver todos los comentarios que hemos creado
+		-Entrega el ID del  commit,  el autor, fecha y el  commit escrito 
+- git checkout -- Nombre del archivo = Para revertir los cambios de los archivos 
+- git diff nombre de archivo = Para ver las diferencias hechas en el archivo
+- git branch = para crear una nueva rama del proyecto
+- git checkout Nombre de la rama = Para moverse entre ramas del proyecto
+
+SI SE NECESITA IGNORAR ALGUN ARCHIVO/CARPETA ES NECESARIO CREAR UN ARCHVO LLAMADO .gitignore DENTRO DE LA  
+	CARPETADEL PROYECTO, DENTRO DEL ARCHIVO SE ESCRIVE EL NOMBRE DE LOS ARCHIVOS A IGNORAR PERO ES NECESARIO
+	AGREGAR EL ARCHIVO AL REPOSITORIO
+
