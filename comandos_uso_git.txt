@@ -1,10 +1,10 @@
-comandos para navegar en Terminal
+COMANDOS PARA NAVEGAR EN LA TERMINAL Y LAS CARPETAS
 
 - pwd = Saber ubicación en la que nos encontramos
 - cd = Entrar  en las carpetas
 - ls = revisar que se encuentra dentro de la carpeta
 
-Comandos  para iniciar el uso de Git
+COMANDOS PARA USO DE GIT
 
 - git config --global user.email "EMAIL_USUARIO"= para configurar el email de usuario
 - git config --global user.name "NOMBRE_USUARIO"=  Parta configurar nombre de usuario
@@ -27,8 +27,23 @@ Comandos  para iniciar el uso de Git
 - git checkout -- NOMBRE_ARCHIVO = Para revertir los cambios de los archivos 
 - git diff NOMBRE_ARCHIVO = Para ver las diferencias hechas en el archivo
 - git branch = para crear una nueva rama del proyecto
+
+COMANDOS PARA USO DE  GIT CON GITHOB
+
 - git checkout NOMBRE_RAMA = Para moverse entre ramas del proyecto
 - git remote add NOMBRE URL = para añadir un repositorio remoto (GitHub)
+- git push = sirve para subir y sincronizar los cambios de tu proyecto local hacia un servidor remoto
+	NOTA: 
+		- git push = Sube los commits de la rama actual a su rama correspondiente en GitHub (si ya está configurada la conexión previa).
+		- git push ORIGIN MAIN = Especifica explícitamente el destino: envía tus cambios al servidor remoto llamado ORIGIN (el nombre por defecto de GitHub) y a la rama principal MAIN.
+- git pull = Sirve para descargar e integrar los cambios más recientes desde GitHub (o cualquier servidor remoto) a tu computadora local.
+	NOTA1:
+		- git pull = Descarga y fusiona los cambios de la rama remota vinculada a tu rama actual.
+		- git pull ORIGIN MAIN = Especifica explícitamente que quieres traer los cambios de la rama MAIN del servidor remoto ORIGIN
+	NOTA2: La consola cambia para empezar a escribir si no lo permite es presionar tecla i
+		-Utilizar el mensaje poor defecto  (Merge branch 'main' of ...) 
+		-para salir presionar Esc posterior mente teclear :wq y enter para regresar 
+		-Mostrara el numero de archivos modificados y el ID que se le asigna al archivo
 - git clone URL = clona el codigo del repositorio remoto (GitHub)
 
 SI SE NECESITA IGNORAR ALGUN ARCHIVO/CARPETA ES NECESARIO CREAR UN ARCHVO LLAMADO .gitignore DENTRO DE LA  
