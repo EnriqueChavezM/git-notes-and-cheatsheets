@@ -123,6 +123,6 @@ GitHub ya no permite autenticación mediante contraseña para operaciones Git po
 | Comando | Descripción |
 | :--- | :--- |
 | `git config --help` | Abre la documentación oficial del comando config. |
-| `git config --global --list` | Muestra la lista completa de configuraciones globales. | Escribe Q para salir
+| `git config --global --list` | Muestra la lista completa de configuraciones globales. (Q para salir)| 
 | `git config --global --unset <clave>` | Elimina un parámetro configurado globalmente. |
 | `git config --global alias.<alias> <comando>` | Crea un atajo personalizado para un comando Git. |
