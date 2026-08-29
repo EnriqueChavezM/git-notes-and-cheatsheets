@@ -20,12 +20,13 @@ Bienvenido/a a mi repositorio personal dedicado al aprendizaje, práctica y docu
 ├── 01-fundamentos/               # Sintaxis de comandos básicos, árbol de trabajo y staging area
 │   ├── 01-Configuracion_inicial.md
 │   ├── 02-Comandos_basicos.md
+│   ├── 03-Gestion_de_cambios.md
 ├── 02-ramas-y-flujos/            # Estrategias de ramificación y fusión
 │   ├── 01
 ├── 03-herramientas-avanzadas/     # Herramientas de optimización y depuración
 │   ├── 01
 ├── 04-github-y-colaboracion/      # Trabajo colaborativo en la nube
-│   ├── 01_
+│   ├── 01
 └── docs/                         # Apuntes teóricos, hojas de 
 
 ```
@@ -35,9 +36,9 @@ Bienvenido/a a mi repositorio personal dedicado al aprendizaje, práctica y docu
 
 - 📖 Documentación Oficial de Git — Guía y manual de referencia oficial de Git.
 
-- 📽️**[Git y Github | Curso Práctico de Git y Github Desde Cero](https://www.youtube.com/watch?v=HiXLkL42tMU)** - *Canal FAZT*
+- 📽️ **[Git y Github | Curso Práctico de Git y Github Desde Cero](https://www.youtube.com/watch?v=HiXLkL42tMU)** - *Canal FAZT*
     
-- 📽️**[Te enseño Git y Github desde 0 en 15 minutos!](https://www.youtube.com/watch?v=H2h_ew9dc_0)** - *Canal LirloxArchives*
+- 📽️ **[Te enseño Git y Github desde 0 en 15 minutos!](https://www.youtube.com/watch?v=H2h_ew9dc_0)** - *Canal LirloxArchives*
 
 ---
 
