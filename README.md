@@ -1,12 +1,47 @@
-#  git-course
-Este es un proyesto de prueba con GIT a nivel principiante
-Contiene notas y un PDF para aydar a entender como  utilizar git
-el tutorial  completo pertenece a al canal: 
+# Git & GitHub Learning Journey 🚀
 
-- FAZT  
-    Git y Github | Curso Práctico de Git y       Github Desde Cero
-    LINK: https://www.youtube.com/watch?v=HiXLkL42tMU
+Bienvenido/a a mi repositorio personal dedicado al aprendizaje, práctica y documentación de **Git** y **GitHub**. En este espacio voy consolidando conceptos teóricos, flujos de trabajo profesionales, resolución de conflictos y notas sobre control de versiones y colaboración en desarrollo de software.
 
-- LirloxArchives 
-    Te enseño Git y Github desde 0 en 15 minutos! | VTUBER ESP
-    LINK: https://www.youtube.com/watch?v=H2h_ew9dc_0
+---
+
+## 📌 Objetivos del Repositorio
+
+- **Documentar mi progreso:** Registrar de manera ordenada mi avance desde los comandos esenciales hasta técnicas avanzadas de control de versiones.
+- **Práctica constante:** Simular escenarios reales de ramificación, rebase interactivo y resolución de conflictos.
+- **Flujos de trabajo colaborativos:** Aplicar buenas prácticas en GitHub mediante Pull Requests, revisiones de código y etiquetas de releases.
+- **Control de versiones estándar:** Adoptar estándares profesionales como *Conventional Commits* y estructuras limpias de repositorios.
+
+---
+
+## 🗂️ Estructura del Repositorio
+
+```text
+.
+├── 01-fundamentos/               # Sintaxis de comandos básicos, árbol de trabajo y staging area
+│   ├── 01
+├── 02-ramas-y-flujos/            # Estrategias de ramificación y fusión
+│   ├── 01
+├── 03-herramientas-avanzadas/     # Herramientas de optimización y depuración
+│   ├── 01
+├── 04-github-y-colaboracion/      # Trabajo colaborativo en la nube
+│   ├── 01_
+└── docs/                         # Apuntes teóricos, hojas de 
+
+```
+---
+
+## 📚 Recursos
+
+- 📖 Documentación Oficial de Git — Guía y manual de referencia oficial de Git.
+
+- 📽️**[Git y Github | Curso Práctico de Git y Github Desde Cero](https://www.youtube.com/watch?v=HiXLkL42tMU)** - *Canal FAZT*
+    
+- 📽️**[Te enseño Git y Github desde 0 en 15 minutos!](https://www.youtube.com/watch?v=H2h_ew9dc_0)** - *Canal LirloxArchives*
+
+---
+
+## 👤 Autor
+
+Desarrollado con dedicación por **Enrique Chávez Márquez**.
+- 🐙 **GitHub:** [@EnriqueChavezM](https://github.com/EnriqueChavezM)
+- 💼 **LinkedIn:** [Enrique Chavez Marquez](https://www.linkedin.com/in/enrique-chavez-marquez-8a5a19326/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAiL37dQVSqStvMo5Ozc5Xw%3D%3D)
