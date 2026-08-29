@@ -18,7 +18,8 @@ Bienvenido/a a mi repositorio personal dedicado al aprendizaje, práctica y docu
 ```text
 .
 ├── 01-fundamentos/               # Sintaxis de comandos básicos, árbol de trabajo y staging area
-│   ├── 01-configuracion_inicial.md
+│   ├── 01-Configuracion_inicial.md
+│   ├── 02-Comandos_basicos.md
 ├── 02-ramas-y-flujos/            # Estrategias de ramificación y fusión
 │   ├── 01
 ├── 03-herramientas-avanzadas/     # Herramientas de optimización y depuración
