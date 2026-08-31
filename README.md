@@ -20,13 +20,17 @@ Bienvenido/a a mi repositorio personal dedicado al aprendizaje, práctica y docu
 ├── 01-fundamentos/               # Sintaxis de comandos básicos, árbol de trabajo y staging area
 │   ├── 01-Configuracion_inicial.md
 │   ├── 02-Comandos_basicos.md
-│   ├── 03-Gestion_de_cambios.md
+│   └── 03-Gestion_de_cambios.md
 ├── 02-ramas-y-flujos/            # Estrategias de ramificación y fusión
-│   ├── 01
+│   ├── 01-Creacion_y_Navegacion.md     
+│   ├── 02-Estrategias_Branching.md    
+│   ├── 03-Merge_vs_Rebase.md    
+│   ├── 04-Resolucion_Conflictos.md
+│   └── 05-Uso_de_Stash.md
 ├── 03-herramientas-avanzadas/     # Herramientas de optimización y depuración
-│   ├── 01
+│   └── 01
 ├── 04-github-y-colaboracion/      # Trabajo colaborativo en la nube
-│   ├── 01
+│   └── 01
 └── docs/                         # Apuntes teóricos, hojas de 
 
 ```
