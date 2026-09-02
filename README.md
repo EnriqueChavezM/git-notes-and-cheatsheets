@@ -28,7 +28,9 @@ Bienvenido/a a mi repositorio personal dedicado al aprendizaje, práctica y docu
 │   ├── 04-Resolucion_Conflictos.md
 │   └── 05-Uso_de_Stash.md
 ├── 03-herramientas-avanzadas/     # Herramientas de optimización y depuración
-│   └── 01
+│   ├── 01-Interactive_Rebase.md
+│   ├── 02-Git_Stash_y_Reflog.md
+│   └── 03-Git_Bisect_Debugging.md
 ├── 04-github-y-colaboracion/      # Trabajo colaborativo en la nube
 │   └── 01
 └── docs/                         # Apuntes teóricos, hojas de 
@@ -38,11 +40,17 @@ Bienvenido/a a mi repositorio personal dedicado al aprendizaje, práctica y docu
 
 ## 📚 Recursos
 
-- 📖 Documentación Oficial de Git — Guía y manual de referencia oficial de Git.
+- 📖 [Guía y manual de referencia oficial de Git.](./doc/progit.pdf) — *Documentación Oficial de Git* 
 
 - 📽️ **[Git y Github | Curso Práctico de Git y Github Desde Cero](https://www.youtube.com/watch?v=HiXLkL42tMU)** - *Canal FAZT*
     
 - 📽️ **[Te enseño Git y Github desde 0 en 15 minutos!](https://www.youtube.com/watch?v=H2h_ew9dc_0)** - *Canal LirloxArchives*
+
+---
+
+## 🏆 Certificaciones y Cursos
+
+- 🎓 **[Curso de Github](https://edutin.com/curso-de-github)** — *Edutin Academy*
 
 ---
 
