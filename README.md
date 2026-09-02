@@ -53,6 +53,7 @@ Bienvenido/a a mi repositorio personal dedicado al aprendizaje, práctica y docu
 ## 🏆 Certificaciones y Cursos
 
 - 🎓 **[Curso de Github](https://edutin.com/curso-de-github)** — *Edutin Academy*
+- 📜 **Software Project Management with Git and GitHub** — *Edutin Academy* | [Ver Certificado](./docs/Certificado_de_estudio_2026-09-02.pdf)
 
 ---
 
