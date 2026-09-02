@@ -32,7 +32,9 @@ Bienvenido/a a mi repositorio personal dedicado al aprendizaje, práctica y docu
 │   ├── 02-Git_Stash_y_Reflog.md
 │   └── 03-Git_Bisect_Debugging.md
 ├── 04-github-y-colaboracion/      # Trabajo colaborativo en la nube
-│   └── 01
+│   ├── 01-pull_requests_and_code_reviews.md
+│   ├── 02-conventional_commits.md
+│   └── 03-issue_templates.md
 └── docs/                         # Apuntes teóricos, hojas de 
 
 ```
